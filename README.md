@@ -10,3 +10,5 @@
 * Interactive content
 
 https://medium.com/@gokselyesiller/html-contents-a30e0f104184
+
+### MetaData content
