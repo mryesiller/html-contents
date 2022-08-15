@@ -11,14 +11,14 @@
 
 https://medium.com/@gokselyesiller/html-contents-a30e0f104184
 
-### MetaData content
-
 <h3>Main Root</h3>
 <br>
--- html
+
+* html
 
 <h3>Document Meta Data</h3>
 <br>
+
 * base (void)
 * head
 * link (void)
@@ -28,10 +28,12 @@ https://medium.com/@gokselyesiller/html-contents-a30e0f104184
 
 <h3>Sectioning Root</h3>
 <br>
+
 * body
 
 <h3>Content Sectioning</h3>
 <br>
+
 * address
 * article
 * aside
