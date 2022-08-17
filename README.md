@@ -39,3 +39,40 @@ https://medium.com/@gokselyesiller/html-contents-a30e0f104184
 * main
 * nav
 * section
+
+<h3>Table Contents</h3>
+
+* caption
+* col (void)
+* colgroup
+* table
+* tbody
+* td
+* tfoot
+* th
+* thead
+* tr
+
+<h3>Web Components</h3>
+
+* slot
+* template
+
+<h3>Text Content</h3>
+
+* blockquote
+* dd
+* div
+* dl
+* dt
+* figcaption
+* figure
+* hr (void)
+* li
+* menu
+* ol
+* p
+* pre
+* ul
+
+
